@@ -1,0 +1,21 @@
+<svg width="720" height="760" viewBox="0 0 720 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="760" rx="48" fill="#11100D"/>
+  <rect x="36" y="36" width="648" height="688" rx="34" fill="#181611" stroke="#3B3325"/>
+  <path d="M360 114C388.719 114 412 137.281 412 166C412 194.719 388.719 218 360 218C331.281 218 308 194.719 308 166C308 137.281 331.281 114 360 114Z" fill="#E7D6A8"/>
+  <path d="M301 231C337 253 383 253 419 231L436 301H284L301 231Z" fill="#B9974F"/>
+  <path d="M228 304C266 254 454 254 492 304L456 512C397 564 323 564 264 512L228 304Z" fill="#E6D8B8"/>
+  <path d="M291 514H429L465 646L408 702H312L255 646L291 514Z" fill="#C4A157"/>
+  <path d="M269 326C298 358 328 374 360 374C392 374 422 358 451 326" stroke="#181611" stroke-width="12" stroke-linecap="round"/>
+  <path d="M312 418C344 438 376 438 408 418" stroke="#181611" stroke-width="10" stroke-linecap="round"/>
+  <path d="M360 258V642" stroke="#806A38" stroke-width="4" stroke-linecap="round" stroke-dasharray="12 16"/>
+  <path d="M215 320C164 339 128 397 111 477L176 494C192 427 211 379 248 346L215 320Z" fill="#8C743D"/>
+  <path d="M505 320C556 339 592 397 609 477L544 494C528 427 509 379 472 346L505 320Z" fill="#8C743D"/>
+  <path d="M110 482L176 499L145 670L78 660L110 482Z" fill="#D4BE82"/>
+  <path d="M610 482L544 499L575 670L642 660L610 482Z" fill="#D4BE82"/>
+  <circle cx="360" cy="382" r="170" stroke="#D9B45F" stroke-width="2" opacity="0.55"/>
+  <circle cx="360" cy="382" r="218" stroke="#D9B45F" stroke-width="1.5" opacity="0.26"/>
+  <path d="M194 168C267 91 453 91 526 168" stroke="#D9B45F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M194 170C267 247 453 247 526 170" stroke="#D9B45F" stroke-width="4" stroke-linecap="round"/>
+  <text x="360" y="82" text-anchor="middle" fill="#F7F3EA" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Respiração • Mobilidade • Postura</text>
+  <text x="360" y="728" text-anchor="middle" fill="#D9B45F" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">HMP</text>
+</svg>
