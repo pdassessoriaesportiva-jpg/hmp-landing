@@ -57,7 +57,6 @@ export const locale = {
     social: [
       { label: "Instagram", href: "https://instagram.com/pauldougllascoach" },
       { label: "YouTube", href: "https://www.youtube.com/channel/UCgguBbL69Oz3XaDBhmJEYgQ" },
-      { label: "LinkedIn", href: "https://linkedin.com/" },
     ],
   },
 };
@@ -99,7 +98,7 @@ export const institutionalPages = {
       },
       {
         title: "Desenvolvimento do HMP",
-        body: "O método foi estruturado para conectar respiração, postura e mobilidade em uma experiência coerente, aplicável e preparada para livros, cursos, eventos e formação continuada.",
+        body: "O método conecta respiração, postura e mobilidade em uma experiência coerente, aplicável e voltada para estudo, prática e formação continuada.",
       },
     ],
   },
@@ -119,7 +118,7 @@ export const institutionalPages = {
       },
       {
         title: "Compra e distribuição",
-        body: "A estrutura está preparada para link oficial da Amazon e futuras edições, traduções ou formatos digitais.",
+        body: "A compra do livro é feita pela Amazon, com acesso simples para quem deseja começar pelo estudo dos fundamentos.",
       },
     ],
   },
@@ -127,19 +126,19 @@ export const institutionalPages = {
     eyebrow: "Curso Online",
     title: "Formação prática para aprender o HMP em progressões.",
     description:
-      "Uma experiência digital preparada para aulas, módulos, materiais de apoio e comunidade.",
+      "Uma experiência digital com aulas, progressões, materiais de apoio e prática orientada.",
     sections: [
       {
         title: "Aulas práticas",
-        body: "O curso online pode organizar vídeos, progressões, exercícios guiados, módulos teóricos e materiais complementares.",
+        body: "O curso online reúne vídeos, progressões, exercícios guiados, módulos teóricos e materiais complementares.",
       },
       {
         title: "Treino com método",
         body: "A proposta é conduzir o aluno de fundamentos respiratórios a sequências mais completas, com critério e clareza.",
       },
       {
-        title: "Escalável internacionalmente",
-        body: "A arquitetura do site já permite preparar páginas futuras para turmas, traduções, certificado e plataforma de ensino.",
+        title: "Evolução contínua",
+        body: "A proposta acompanha o crescimento do método, com possibilidade de novas turmas, materiais complementares e versões em outros idiomas.",
       },
     ],
   },
@@ -159,7 +158,7 @@ export const institutionalPages = {
       },
       {
         title: "Eventos e turmas",
-        body: "A página está pronta para receber calendário, locais, lotes, inscrições e materiais oficiais.",
+        body: "As turmas presenciais podem reunir prática, correção técnica, vivência coletiva e orientação direta com o autor do método.",
       },
     ],
   },
@@ -170,8 +169,8 @@ export const institutionalPages = {
       "Uma base institucional para workshops, turmas presenciais, palestras e encontros especiais.",
     sections: [
       {
-        title: "Agenda preparada para crescer",
-        body: "A estrutura pode receber calendário, cidades, vagas, links de inscrição, fotos de eventos anteriores e lista de espera.",
+        title: "Agenda de experiências",
+        body: "Workshops, imersões e encontros especiais podem acontecer em diferentes cidades, com vagas e formatos definidos conforme cada edição.",
       },
       {
         title: "Experiência de marca",
@@ -179,7 +178,7 @@ export const institutionalPages = {
       },
       {
         title: "Expansão internacional",
-        body: "A página já foi pensada para suportar eventos no Brasil e em outros países, com conteúdo futuro em inglês e espanhol.",
+        body: "O HMP tem potencial para eventos no Brasil e em outros países, aproximando alunos e profissionais de diferentes mercados.",
       },
     ],
   },
@@ -191,15 +190,15 @@ export const institutionalPages = {
     sections: [
       {
         title: "Artigos educativos",
-        body: "O blog pode receber textos sobre hipopressivos, mobilidade, postura, core, treinamento, reabilitação e consciência corporal.",
+        body: "O blog reúne textos sobre hipopressivos, mobilidade, postura, core, treinamento, reabilitação e consciência corporal.",
       },
       {
         title: "SEO de longo prazo",
-        body: "A estrutura foi preparada para crescer com conteúdo orgânico, categorias, autores, tags e versões internacionais.",
+        body: "O conteúdo editorial fortalece a presença orgânica do método e facilita o acesso a temas como respiração, postura, mobilidade e core.",
       },
       {
         title: "Conteúdo multimídia",
-        body: "Futuramente, cada artigo pode incorporar vídeos, imagens, estudos, episódios e materiais para download.",
+        body: "Os artigos podem integrar vídeos, imagens, estudos, episódios e materiais de apoio para aprofundar a experiência do leitor.",
       },
     ],
   },
@@ -207,11 +206,11 @@ export const institutionalPages = {
     eyebrow: "Artigos Científicos",
     title: "Base de estudos e referências para sustentar a autoridade técnica.",
     description:
-      "Espaço preparado para curadoria científica, comentários técnicos e leitura crítica.",
+      "Curadoria científica, comentários técnicos e leitura crítica sobre temas relacionados ao método.",
     sections: [
       {
         title: "Biblioteca de referências",
-        body: "A página pode reunir estudos sobre hipopressivos, função respiratória, postura, mobilidade, core e reabilitação.",
+        body: "A biblioteca reúne estudos sobre hipopressivos, função respiratória, postura, mobilidade, core e reabilitação.",
       },
       {
         title: "Curadoria responsável",
@@ -227,11 +226,11 @@ export const institutionalPages = {
     eyebrow: "Depoimentos",
     title: "Relatos, prints e resultados contextualizados.",
     description:
-      "Uma seção institucional para prova social responsável e facilmente atualizável.",
+      "Prova social apresentada com contexto, responsabilidade e respeito à individualidade de cada praticante.",
     sections: [
       {
         title: "Relatos em múltiplos formatos",
-        body: "A página pode suportar vídeos, prints de WhatsApp, textos, fotos, avaliações e antes/depois com contexto.",
+        body: "Os relatos podem aparecer em vídeos, prints de WhatsApp, textos, fotos, avaliações e comparativos com contexto.",
       },
       {
         title: "Confiança sem exagero",
@@ -239,7 +238,7 @@ export const institutionalPages = {
       },
       {
         title: "Biblioteca de prova social",
-        body: "Com o tempo, esta página pode virar um arquivo robusto de resultados por perfil, objetivo, cidade e tipo de prática.",
+        body: "Com o crescimento do método, os registros ajudam a mostrar perfis, objetivos, cidades e experiências de prática.",
       },
     ],
   },
@@ -279,7 +278,7 @@ export const institutionalPages = {
       },
       {
         title: "Atendimento internacional",
-        body: "A arquitetura contempla futuras versões em inglês e espanhol, facilitando expansão para outros mercados.",
+        body: "O atendimento acompanha a expansão do HMP para outros mercados, com visão internacional e comunicação direta.",
       },
     ],
   },
@@ -290,11 +289,11 @@ export const legalPages = {
     eyebrow: "Privacidade",
     title: "Política de Privacidade",
     description:
-      "Estrutura inicial para informar como dados de contato, leads e navegação serão tratados.",
+      "Informações sobre como dados de contato, cliques em WhatsApp e navegação podem ser tratados.",
     sections: [
       {
         title: "Dados coletados",
-        body: "Esta página deve ser revisada juridicamente antes da publicação final. Ela está preparada para explicar dados enviados em formulários, cliques em WhatsApp, cookies e ferramentas de análise.",
+        body: "O site pode registrar interações de navegação, cliques em WhatsApp e informações fornecidas voluntariamente em canais oficiais.",
       },
       {
         title: "Uso das informações",

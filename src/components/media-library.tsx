@@ -9,12 +9,11 @@ export function MediaLibrary() {
         <div className="reveal">
           <SectionHeading
             eyebrow="Acervo visual"
-            title="Estrutura pronta para substituir placeholders por ativos reais."
+            title="Registros que mostram o método em prática."
             align="center"
           >
-            A página já nasce preparada para receber vídeos, fotos oficiais,
-            prints de WhatsApp e comparativos visuais, sem precisar redesenhar
-            a experiência quando os materiais estiverem prontos.
+            Vídeos, turmas, registros de curso e materiais visuais que ajudam a
+            apresentar a aplicação do HMP em diferentes contextos.
           </SectionHeading>
         </div>
 

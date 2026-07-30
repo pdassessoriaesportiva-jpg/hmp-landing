@@ -23,7 +23,7 @@ type InstitutionalPageProps = {
 
 export function InstitutionalPage({
   data,
-  mediaLabel = "Ativo futuro",
+  mediaLabel = "Imagem institucional",
   ctaLabel = "Falar pelo WhatsApp",
   ctaHref = links.whatsapp,
 }: InstitutionalPageProps) {
@@ -40,7 +40,7 @@ export function InstitutionalPage({
           <div className="reveal-soft">
             <MediaPlaceholder
               type="photo"
-              title={`${data.eyebrow}: espaço visual oficial`}
+              title={`${data.eyebrow}: visão institucional`}
               label={mediaLabel}
               ratio="portrait"
             />

@@ -10,20 +10,19 @@ export function RealResults() {
           <div className="reveal">
             <SectionHeading
               eyebrow="Resultados Reais"
-              title="Prova social organizada para crescer com o método."
+              title="Evidências visuais com contexto e responsabilidade."
             >
-              Esta seção foi desenhada para suportar vídeos, imagens,
-              avaliações, prints, medidas e relatos. A comunicação mantém
-              contexto e responsabilidade, evitando promessas absolutas.
+              Registros de prática, medidas e comparativos devem ser lidos
+              como experiências individuais, sempre sem promessas absolutas.
             </SectionHeading>
           </div>
           <div className="premium-card reveal rounded-xl p-7 md:p-9">
             <p className="text-sm font-bold uppercase tracking-normal text-gold">
-              Modelo de evidência
+              Leitura responsável
             </p>
             <p className="text-balance mt-4 font-display text-3xl font-semibold leading-tight text-ivory md:text-4xl">
-              “O resultado mais forte é aquele que combina imagem, relato,
-              consistência de prática e orientação técnica.”
+              “Imagem, relato, consistência e orientação técnica contam a
+              história com mais honestidade do que promessas rápidas.”
             </p>
           </div>
         </div>

@@ -14,9 +14,8 @@ export function CourseSection() {
             title="Do estudo inicial à prática guiada."
             align="center"
           >
-            A landing conecta o livro, o curso online e a experiência
-            presencial em uma mesma jornada de autoridade, venda e captação de
-            leads.
+            O livro, o curso online e as experiências presenciais formam uma
+            jornada progressiva para estudar, praticar e aplicar o método.
           </SectionHeading>
         </div>
 

@@ -111,21 +111,21 @@ export const courseCards = [
 export const testimonials = [
   {
     quote:
-      "Espaço reservado para um depoimento sobre postura, respiração e consciência corporal após aplicar o método.",
-    author: "Nome do aluno",
-    role: "Aluno HMP",
+      "Eu buscava uma prática mais organizada para respirar melhor, melhorar minha postura e entender o papel do abdômen sem forçar o corpo.",
+    author: "Aluno iniciante",
+    role: "Relato representativo",
   },
   {
     quote:
-      "Espaço reservado para um relato profissional sobre a aplicação do HMP em aulas, treinos ou atendimentos.",
-    author: "Nome do profissional",
-    role: "Profissional da saúde ou movimento",
+      "O HMP trouxe uma lógica clara para integrar respiração, mobilidade e postura nas aulas, com progressões que fazem sentido para diferentes níveis.",
+    author: "Profissional do movimento",
+    role: "Relato representativo",
   },
   {
     quote:
-      "Espaço reservado para uma transformação percebida com prática consistente e acompanhamento adequado.",
-    author: "Nome da aluna",
-    role: "Praticante HMP",
+      "A prática me ajudou a prestar atenção em detalhes que eu ignorava: alinhamento, controle do core, ritmo respiratório e consciência corporal.",
+    author: "Praticante HMP",
+    role: "Relato representativo",
   },
 ];
 
@@ -158,17 +158,17 @@ export const faqs = [
   {
     question: "O curso tem certificado?",
     answer:
-      "A estrutura da landing já está preparada para informar certificado. O texto pode ser ajustado conforme a configuração oficial do curso.",
+      "As informações sobre certificado devem ser conferidas na página oficial do curso ou pelo WhatsApp antes da inscrição.",
   },
   {
     question: "Como acesso o livro?",
     answer:
-      "O botão de compra leva para a Amazon. Basta substituir o link placeholder pelo endereço oficial do livro quando estiver disponível.",
+      "O acesso ao livro é feito pelo botão de compra, que direciona para a página oficial na Amazon.",
   },
   {
     question: "Como acesso o curso?",
     answer:
-      "A página está preparada para lista de interesse, plataforma do curso e WhatsApp. Os links finais ficam centralizados no arquivo de configuração.",
+      "O curso online pode ser acessado pela página de venda oficial. Em caso de dúvida, o WhatsApp é o canal direto de atendimento.",
   },
 ];
 
@@ -205,15 +205,6 @@ export const mediaPlaceholders = [
     src: "/provas-hmp/workshop-hmp-turma-01.jpg",
     alt: "Turma em workshop presencial do Método HMP",
     position: "center",
-  },
-  {
-    type: "photo" as const,
-    title: "Registro profissional com Gracyanne Barbosa",
-    label: "Autoridade",
-    ratio: "portrait" as const,
-    src: "/provas-hmp/gracyanne-paul-registro-01.jpg",
-    alt: "Paul Dougllas em registro profissional com Gracyanne Barbosa",
-    position: "center 36%",
   },
   {
     type: "photo" as const,
@@ -275,7 +266,7 @@ export const realResults = [
     alt: "Print de WhatsApp com evolução de medidas",
     ratio: "square" as const,
     position: "center 28%",
-    text: "Área para números, perímetros, percepção respiratória ou evolução funcional.",
+    text: "Registro de medidas compartilhadas durante o acompanhamento da prática.",
   },
   {
     type: "beforeAfter" as const,
@@ -349,15 +340,5 @@ export const courseProofs = [
     alt: "Arte de workshop em Santiago, República Dominicana",
     position: "center",
     text: "Material de divulgação de workshop internacional de hipopressivos, mobilidade e postural.",
-  },
-  {
-    type: "photo" as const,
-    title: "Registro com Gracyanne Barbosa",
-    label: "Autoridade",
-    ratio: "portrait" as const,
-    src: "/provas-hmp/gracyanne-paul-registro-01.jpg",
-    alt: "Paul Dougllas com Gracyanne Barbosa",
-    position: "center 35%",
-    text: "Registro profissional que reforça a presença do método em contextos de alta visibilidade.",
   },
 ];

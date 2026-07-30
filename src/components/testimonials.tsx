@@ -9,11 +9,11 @@ export function Testimonials() {
         <div className="reveal">
           <SectionHeading
             eyebrow="Depoimentos"
-            title="Relatos preparados para sustentar confiança."
+            title="Relatos representativos de quem busca evoluir com método."
             align="center"
           >
-            Quando os primeiros relatos oficiais forem definidos, basta
-            substituir os placeholders mantendo o mesmo layout premium.
+            Experiências descritas de forma responsável, sem prometer resultados
+            iguais para todos e sem substituir avaliação individual.
           </SectionHeading>
         </div>
 

@@ -92,7 +92,7 @@ export function SiteFooter() {
             © {new Date().getFullYear()} {locale.brand.legalName}. Todos os
             direitos reservados.
           </p>
-          <p>Estrutura preparada para PT-BR, EN e ES.</p>
+          <p>Conteúdo oficial em português, com expansão internacional em evolução.</p>
         </div>
       </div>
     </footer>
