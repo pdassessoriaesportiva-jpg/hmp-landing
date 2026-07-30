@@ -1,4 +1,4 @@
-import { MessageCircle, Send } from "lucide-react";
+import { MessageCircle } from "lucide-react";
 import { ButtonLink } from "@/components/button-link";
 import { InstitutionalPage } from "@/components/site/institutional-page";
 import { institutionalPages } from "@/content";
@@ -35,14 +35,14 @@ export default function ContatoPage() {
             <p className="text-sm font-black uppercase tracking-normal text-gold">
               Institucional
             </p>
-            <h2 className="mt-4 text-3xl font-bold text-ivory">E-mail e parcerias</h2>
+            <h2 className="mt-4 text-3xl font-bold text-ivory">Parcerias e imprensa</h2>
             <p className="mt-4 text-base leading-8 text-stonewarm">
-              Espaço preparado para e-mail oficial, mídia kit, imprensa,
-              convites e parcerias internacionais.
+              Para mídia kit, convites, cursos presenciais, eventos e parcerias
+              internacionais, o atendimento também acontece pelo WhatsApp.
             </p>
             <div className="mt-7">
-              <ButtonLink href="mailto:contato@metodohmp.com.br" icon={Send} variant="secondary">
-                Enviar e-mail
+              <ButtonLink href={links.whatsapp} icon={MessageCircle} variant="secondary">
+                Conversar pelo WhatsApp
               </ButtonLink>
             </div>
           </div>

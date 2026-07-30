@@ -275,7 +275,7 @@ export const institutionalPages = {
       },
       {
         title: "Parcerias e imprensa",
-        body: "A página está preparada para receber e-mail institucional, formulário, mídia kit e canais por país.",
+        body: "Use o WhatsApp para mídia kit, convites, cursos presenciais, eventos e parcerias. Assim nenhum contato fica parado em um canal sem atendimento.",
       },
       {
         title: "Atendimento internacional",
