@@ -42,7 +42,7 @@ export const locale = {
         links: [
           { label: "FAQ", href: "/faq" },
           { label: "Contato", href: "/contato" },
-          { label: "WhatsApp", href: "https://wa.me/5500000000000" },
+          { label: "WhatsApp", href: "https://wa.me/5521973202192" },
         ],
       },
       {
@@ -55,8 +55,8 @@ export const locale = {
       },
     ],
     social: [
-      { label: "Instagram", href: "https://instagram.com/" },
-      { label: "YouTube", href: "https://youtube.com/" },
+      { label: "Instagram", href: "https://instagram.com/pauldougllascoach" },
+      { label: "YouTube", href: "https://www.youtube.com/channel/UCgguBbL69Oz3XaDBhmJEYgQ" },
       { label: "LinkedIn", href: "https://linkedin.com/" },
     ],
   },

@@ -20,11 +20,11 @@ import {
 } from "@/components/hmp-icons";
 
 export const links = {
-  amazon: "https://amazon.com.br/",
+  amazon: "https://a.co/d/0g8VYXJZ",
   whatsapp:
-    "https://wa.me/5500000000000?text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20M%C3%A9todo%20HMP.",
-  course: "#curso-online",
-  leadList: "#lista-curso",
+    "https://wa.me/5521973202192?text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20M%C3%A9todo%20HMP.",
+  course: "https://payfast.greenn.com.br/ht97kwc",
+  leadList: "https://payfast.greenn.com.br/ht97kwc",
 };
 
 export const painPoints = [
