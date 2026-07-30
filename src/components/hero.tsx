@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ArrowDown, BookOpen, MessageCircle, Play } from "lucide-react";
+import { ArrowDown, BookOpen, MessageCircle } from "lucide-react";
 import { ButtonLink } from "@/components/button-link";
 import { heroHighlights, links, stats } from "@/lib/site";
 
@@ -59,24 +59,15 @@ export function Hero() {
         <div className="reveal-soft relative mx-auto w-full max-w-[660px]">
           <div className="premium-card relative overflow-hidden rounded-xl p-3">
             <div className="media-grain relative aspect-[16/10] overflow-hidden rounded-lg">
-              <div className="premium-grid absolute inset-0 opacity-35" />
-              <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(0,0,0,0.04),rgba(0,0,0,0.68))]" />
-              <div className="absolute left-5 top-5 rounded-full border border-gold/25 bg-black/80 px-3 py-1 text-xs font-bold uppercase tracking-normal text-gold">
+              <iframe
+                className="absolute inset-0 h-full w-full"
+                src="https://www.youtube.com/embed/F4iEAnKbyl0?rel=0&modestbranding=1"
+                title="Vídeo institucional do Método HMP"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+              />
+              <div className="pointer-events-none absolute left-5 top-5 rounded-full border border-gold/25 bg-black/80 px-3 py-1 text-xs font-bold uppercase tracking-normal text-gold">
                 Vídeo institucional
-              </div>
-              <div className="absolute inset-0 flex items-center justify-center">
-                <div className="flex h-20 w-20 items-center justify-center rounded-full border border-white/20 bg-ivory text-carbon shadow-gold transition duration-500 hover:scale-105 hover:bg-gold">
-                  <Play aria-hidden className="ml-1 h-8 w-8 fill-current" />
-                </div>
-              </div>
-              <div className="absolute inset-x-6 bottom-6">
-                <p className="max-w-md text-xl font-bold leading-tight text-ivory">
-                  Área preparada para receber o vídeo oficial do método.
-                </p>
-                <p className="mt-2 text-sm leading-6 text-stonewarm">
-                  Substitua este bloco por um vídeo hospedado, embed ou arquivo
-                  local quando a produção estiver pronta.
-                </p>
               </div>
             </div>
           </div>
